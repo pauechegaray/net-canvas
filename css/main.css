@@ -1,0 +1,13 @@
+
+div#main-container {
+  width: 100%;
+  height: auto;
+
+  margin: 0;
+}
+
+canvas {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
