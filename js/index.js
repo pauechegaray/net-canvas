@@ -65,7 +65,7 @@ function animate () {
     context.beginPath();
     context.arc(x, y, circle.radius, 0, TWO_PI, false);
 
-    context.fillStyle = 'black';
+    context.fillStyle = 'purple';
     context.fill();
 
     updateCircle(circle);
